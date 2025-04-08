@@ -28,13 +28,19 @@
 
 ### 🚀 Destaques | Highlights
 
-- [**Projeto 1 - Meu Portfólio**](https://github.com/LucasGuldem/meu-portfolio)  
-  *🇧🇷 Meu portfólio pessoal criado com HTML, CSS e responsividade.*  
-  *🇺🇸 My personal portfolio built with HTML, CSS and responsive design.*
+#### Meu Portfólio Pessoal
+<p align="center">
+  <a href="https://github.com/LucasGuldem/meu-portfolio">
+    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="70%" alt="preview do projeto">
+  </a>
+</p>
 
-- [**Projeto 2 - Em breve...**](#)  
-  *🇧🇷 Novos projetos sendo desenvolvidos!  
-  🇺🇸 New projects coming soon!*
+---
+
+### 📜 Certificados | Certificates
+
+![Alura](https://img.shields.io/badge/Curso%20Alura-HTML%20e%20CSS-blue?style=for-the-badge&logo=alura&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-JavaScript%20Essentials-purple?style=for-the-badge&logo=Udemy&logoColor=white)
 
 ---
 
@@ -65,6 +71,14 @@
 
 #### 📚 Estudando Agora | Currently Learning
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)
+
+---
+
+### 📈 Atividade Recentemente | Recent Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=LucasGuldem&bg_color=ffffff&color=591F0A&line=FFBA08&point=591F0A&area=true&hide_border=true"/>
+</p>
 
 ---
 
